@@ -40,7 +40,6 @@ Posteriormente, realice una abstracción para definir una clase o plantilla para
 int Altura |
 string Raza |
 int Peso |
-
 void Correr() |
 void Ladrar() |
 int getAltura() |
@@ -61,7 +60,9 @@ Las pruebas deben incluir, sin limitarse a ello, los siguientes puntos:
 * Verificación de todos los métodos programados.
 
 *Clase Perro*
-´´´
+
+
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -150,10 +151,11 @@ namespace Caninos
     }
 }
 
-´´´
+```
 
-* Main Class* 
-´´´
+* Main Class*
+
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -215,7 +217,7 @@ namespace Caninos
         }
     }
 }
-´´´
+```
  
 6. Bibliografía  
  
