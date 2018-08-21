@@ -25,7 +25,7 @@ El polimorfismo suele considerarse el tercer pilar de la programación orientada
  
 I. Actividad 1
 
-*Definir una clase base *
+*Definir una clase base*
  
 Programe una clase que incluya al menos un método que sea susceptible de tener un comportamiento distinto al ser heredado a una clase derivada.  Declare este tipo de métodos como métodos virtuales. 
 Elabore las pruebas de escritorio necesarias para verificar el funcionamiento correcto de toda la funcionalidad de la clase base.
