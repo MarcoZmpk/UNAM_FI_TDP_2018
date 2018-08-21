@@ -18,17 +18,20 @@ II. Objetivos específicos:
 * Aprender a redefinir los métodos de una clase base en sus clases derivadas.
  
 2. *Introducción*
+
 El polimorfismo suele considerarse el tercer pilar de la programación orientada a objetos, además del encapsulamiento y la herencia.Polimorfismo es una palabra que proviene del griego, significa "con muchas formas" y tiene dos aspectos diferentes.
 
 3. *Desarrollo*
  
 I. Actividad 1
+
 *Definir una clase base *
  
 Programe una clase que incluya al menos un método que sea susceptible de tener un comportamiento distinto al ser heredado a una clase derivada.  Declare este tipo de métodos como métodos virtuales. 
 Elabore las pruebas de escritorio necesarias para verificar el funcionamiento correcto de toda la funcionalidad de la clase base.
 
-II. Actividad 2 
+II. Actividad 2
+
 *Implementación del polimorfismo*
  
 A partir de la clase base previamente definida, mediante la herencia, genere al menos una clase derivada que redefina apropiadamente el comportamiento todos sus métodos virtuales. 
