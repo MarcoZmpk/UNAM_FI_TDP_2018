@@ -38,7 +38,7 @@ II. Actividad 2
 A partir de la clase base previamente definida, mediante la herencia, genere al menos una clase derivada que redefina apropiadamente el comportamiento todos sus métodos virtuales. 
 Elabore las pruebas de escritorio necesarias para verificar el funcionamiento correcto de toda la funcionalidad de la clase derivada.
  
-´´´
+```
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -137,10 +137,10 @@ namespace ControlDeAcceso
         }
     }
 }
-´´´
+```
 --- 
 
-´´´
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -195,10 +195,10 @@ namespace ControlDeAcceso
         }
     }
 }
-´´´
+```
 ---
 
-´´´
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -222,10 +222,10 @@ namespace ControlDeAcceso
         }
     }
 }
-´´´
+```
 ---
 
-´´´
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -250,9 +250,9 @@ namespace ControlDeAcceso
     }
 }
 
-´´´
+```
 ---
-´´´
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -276,7 +276,7 @@ namespace ControlDeAcceso
     }
 }
 
-´´´
+```
 ---
  
  
