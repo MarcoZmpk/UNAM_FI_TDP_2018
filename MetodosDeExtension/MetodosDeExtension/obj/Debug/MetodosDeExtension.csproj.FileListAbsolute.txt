@@ -1,0 +1,7 @@
+c:\users\marco\source\repos\MetodosDeExtension\MetodosDeExtension\bin\Debug\MetodosDeExtension.exe.config
+c:\users\marco\source\repos\MetodosDeExtension\MetodosDeExtension\bin\Debug\MetodosDeExtension.exe
+c:\users\marco\source\repos\MetodosDeExtension\MetodosDeExtension\bin\Debug\MetodosDeExtension.pdb
+c:\users\marco\source\repos\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.csprojAssemblyReference.cache
+c:\users\marco\source\repos\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.csproj.CoreCompileInputs.cache
+c:\users\marco\source\repos\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.exe
+c:\users\marco\source\repos\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.pdb
