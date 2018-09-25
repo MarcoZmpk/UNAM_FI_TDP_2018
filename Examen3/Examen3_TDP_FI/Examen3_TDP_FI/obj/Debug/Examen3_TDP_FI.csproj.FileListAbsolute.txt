@@ -1,0 +1,10 @@
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\obj\Debug\Examen3_TDP_FI.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\obj\Debug\Examen3_TDP_FI.Form1.resources
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\obj\Debug\Examen3_TDP_FI.Properties.Resources.resources
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\obj\Debug\Examen3_TDP_FI.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\obj\Debug\Examen3_TDP_FI.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\bin\Debug\Examen3_TDP_FI.exe.config
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\bin\Debug\Examen3_TDP_FI.exe
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\bin\Debug\Examen3_TDP_FI.pdb
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\obj\Debug\Examen3_TDP_FI.exe
+C:\Users\marco\source\repos\Examen3_TDP_FI\Examen3_TDP_FI\obj\Debug\Examen3_TDP_FI.pdb
